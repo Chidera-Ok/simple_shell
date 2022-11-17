@@ -1,8 +1,8 @@
 # SIMPLE_SHELL
 
-## Project Description
+## Project Description:wave
 
-This is an implementation of shell in UNIX operating system. This is essentially a simple UNIX command intepreter.
+Hello, this is an implementation of shell in UNIX operating system. This is essentially a simple UNIX command intepreter. Project was undertaken as a requirement in the ALX fulstack software programme. 
 ---
 
 ## Built With
@@ -10,16 +10,15 @@ This is an implementation of shell in UNIX operating system. This is essentially
 - C
 
 ---
-## Resources:books:
+## Resources:books
 Read or watch:
 * [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
 * [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
 * [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 * [Everything you need to know to start coding your own shell](https://intranet.hbtn.io/concepts/64)
-* [The Linux Programming Interface - Michael Kerrisk]
 
 ---
-## Learning Objectives:bulb:
+## Learning Objectives:bulb
 What you should learn from this project:
 
 * Who designed and implemented the original Unix operating system
@@ -39,7 +38,7 @@ What you should learn from this project:
 
 ---
 
-## Instalation:
+## Instalation:wrench
 Follow the following instructions to get a copy of the program and run in your local machine.
 
 * Clone the following repository.
@@ -63,7 +62,7 @@ valgrind --leak-check=full --show-leak-kinds=all ./executable_name
 ```
 --- 
 
-## Authors
+## Authors:computer
 
 - **Okeke Chidera**
 - **Egho Lucky**
